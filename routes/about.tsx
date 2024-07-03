@@ -10,7 +10,7 @@ export default function About() {
         <div class="max-auto mt-8 max-w-lg leading-8 text-gray-900">
           <div class="text-lg text-gray-500">关于本站</div>
           <div class="my-4">网站目前只接收客服人工收款</div>
-          <div>10元开通会员</div>
+          <div>10元激活飞行棋</div>
           <div>支付后添加微信[ BarronZBY ] 1~12小时内响应</div>
           <div class="mt-4">
             如需其他定制开发， 欢迎联系合作。
